@@ -11,7 +11,7 @@ export const ContainerItens = styled.div`
   padding: 50px 36px;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: 100vh;
 
   ${(props) =>
     props.isBlur &&
